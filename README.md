@@ -1,7 +1,7 @@
-0x05. AirBnB clone - RESTful API
+0x06. AirBnB clone - Web dynamic
 
 AUTHORS
 
 Risikat Popoola <cird2007@yahoo.com>
 
-Lidya Abraha <lidyasumo@gmail.com>
+Abdulwasiu Popoola <waga43tech@gmail.com>
